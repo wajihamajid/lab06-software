@@ -1,0 +1,1 @@
+The main difference between an update and an upgrade lies in their scope, size, and purpose: an update fixes or refines what you already have, while an upgrade replaces it with a newer, more advanced version
