@@ -1,0 +1,8 @@
+/home/wajihamajid/lab06-software
+├── evidence
+│   ├── 01_cowsay.txt
+│   └── 01_tree.txt
+├── notes
+└── README.md
+
+3 directories, 3 files
